@@ -1,2 +1,2 @@
 # satranc
-SatranÃ§ taÅŸlarÄ±nÄ±n hareket edebildiÄŸi kareleri gÃ¶steren c# form uygulamasÄ±
+Satranç taşlarının hareket edebildiği kareleri gösteren c# form uygulaması
