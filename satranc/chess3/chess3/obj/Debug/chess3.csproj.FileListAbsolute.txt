@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\bin\Debug\chess3.exe.config
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\bin\Debug\chess3.exe
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\bin\Debug\chess3.pdb
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\obj\Debug\chess3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\obj\Debug\chess3.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\obj\Debug\chess3.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\obj\Debug\chess3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\obj\Debug\chess3.exe
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\obj\Debug\chess3.pdb
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\bin\Debug\tr\chess3.resources.dll
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\obj\Debug\tr\chess3.resources.dll
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\obj\Debug\chess3.Form1.resources
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\obj\Debug\chess3.Form1.tr.resources
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\bin\Debug\tr-CY\chess3.resources.dll
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\obj\Debug\chess3.Form1.tr-CY.resources
+C:\Users\Lenovo\Desktop\vs22\chess3\chess3\obj\Debug\tr-CY\chess3.resources.dll
