@@ -1,2 +1,2 @@
-# satranc
-Satranç taþlarýnýn hareket edebildiði kareleri gösteren c# form uygulamasý
+# chess
+C# form application that shows the squares where chess pieces can move
